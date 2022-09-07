@@ -30,7 +30,7 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 - [Charon Baglari](https://github.com/XCBv021)
 
 
-Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.p align="center">
+Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
 
   <img src="https://telegra.ph/file/5a45448db0e5a20de636d.jpg">
 
