@@ -3,7 +3,7 @@
 
 
 ──「 Sєяєηα ✘ Rσвσт 」──
-<img src="https://telegra.ph/file/5a45448db0e5a20de636d.jpg."
+
 [Serena Music Bot] is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
